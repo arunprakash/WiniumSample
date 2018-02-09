@@ -7,6 +7,14 @@
 # BlueJ files
 *.ctxt
 
+# Target Folder for Maven
+target/
+
+# Eclipse Settings Files/Folder
+.settings
+.classpath
+.project
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
