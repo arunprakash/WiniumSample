@@ -9,6 +9,7 @@
 
 # Target Folder for Maven
 target/
+bin
 
 # Eclipse Settings Files/Folder
 .settings
